@@ -14,7 +14,7 @@ function About() {
         About US
       </h2>
       <p class="text-base text-gray-700 md:text-lg">
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
+      Our mission is to revolutionize surveillance through cutting-edge AI technology. We empower businesses with smart, real-time insights for enhanced security, safety, and operational efficiency. Discover the future of surveillance with us
       </p>
     </div>
     <div class="flex items-center">

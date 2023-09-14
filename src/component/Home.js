@@ -6,10 +6,10 @@ function Home() {
     <div class="px-12 mx-auto max-w-7xl">
         <div class="w-full mx-auto text-left md:w-11/12 xl:w-9/12 md:text-center">
             <h1 class="mb-8 text-4xl font-extrabold leading-none tracking-normal text-gray-900 md:text-6xl md:tracking-tight">
-                <span>Start</span> <span class="block w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-green-400 to-purple-500 lg:inline">React Routing</span> <span>for your project</span>
+                <span></span> <span class="block w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-green-400 to-purple-500 lg:inline">AI Cameras:</span> <span>Your Watchful Eye, Anytime, Anywhere</span>
             </h1>
             <p class="px-0 mb-8 text-lg text-gray-600 md:text-xl lg:px-24">
-                Start gaining the traction you've always wanted with our next-level templates and designs. Crafted to help you tell your story.
+            GuardianEye: Our AI-powered camera detection system offers advanced surveillance and real-time insights for enhanced security and safety. Monitor, analyze, and protect with cutting-edge technology for peace of mind.
             </p>
             <div class="mb-4 space-x-0 md:space-x-2 md:mb-8">
                 <a href="#_" class="inline-flex items-center justify-center w-full px-6 py-3 mb-2 text-lg text-white bg-green-400 rounded-2xl sm:w-auto sm:mb-0">
@@ -32,7 +32,7 @@ function Home() {
                             <div class="w-3 h-3 border-2 border-white rounded-full"></div>
                         </div>
                     </div>
-                    <img src="https://cdn.devdojo.com/images/march2021/green-dashboard.jpg" />
+                    <img src="https://images.moneycontrol.com/static-mcnews/2021/08/Indian-Railways-770x433.jpg?impolicy=website&width=770&height=431" />
                 </div>
             </div>
         </div>
